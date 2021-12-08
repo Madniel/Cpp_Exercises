@@ -9,9 +9,11 @@ exercise 2
 Load two numbers given by the user and perform add, multiply, subtract and divide operations on them. Print numbers on the screen. Write two versions:
 using integer types,
 using floating-point types.
+
 exercise 3
 
 Load one number given by the user and perform pre- and post- incrementation operations on it. Do the same with pre- and post- decrementation.
+
 exercise 4
 
 Write program that will output the following text (all the informations are provided by the user - preserve formatting):
